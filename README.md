@@ -1,5 +1,5 @@
 # Digital Bridge
-Bigital Bridge/Mbuji-Mayi
+## Bigital Bridge/Mbuji-Mayi
 
 My name is Richard Tshilombo and I am the founder of Digital Bridge, a start-up located in Mbuji-Mayi, which aims at teaching robotics.
 
